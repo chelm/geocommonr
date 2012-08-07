@@ -1,0 +1,8 @@
+{  "name": "Geocommonr"
+ , "description":  "Scripts for playing with geocommons data"
+ , "version":  "0.0.1"
+ , "dependencies": {
+    "request" : "2.9.203"
+ }
+ , "engines": { "node": "*" }
+}
